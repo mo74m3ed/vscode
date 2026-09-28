@@ -97,7 +97,7 @@
     "reauth-feed": "artifacts-npm-credprovider --force"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.82.0",
+    "@anthropic-ai/sdk": "^0.128.0",
     "@devcontainers/cli": "0.88.0",
     "@github/copilot-sdk": "1.0.15-preview.3",
     "@microsoft/1ds-core-js": "^3.2.13",
@@ -142,7 +142,7 @@
     "@xterm/xterm": "^6.1.0-beta.304",
     "chrome-remote-interface": "^0.33.0",
     "detect-libc": "^2.1.2",
-    "foundry-local-sdk": "1.2.3",
+    "foundry-local-sdk": "2.0.1",
     "http-proxy-agent": "^7.0.0",
     "https-proxy-agent": "^7.0.2",
     "jschardet": "3.1.4",
@@ -224,7 +224,7 @@
     "event-stream": "3.3.4",
     "fancy-log": "^1.3.3",
     "glob": "^5.0.13",
-    "gulp": "^4.0.0",
+    "gulp": "^5.0.1",
     "gulp-azure-storage": "^0.12.1",
     "gulp-bom": "^3.0.0",
     "gulp-buffer": "0.0.2",
